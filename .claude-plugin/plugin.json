@@ -1,6 +1,6 @@
 {
   "name": "session-retitle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Names unnamed sessions right away and renames a session when the work drifts from its title.",
   "author": { "name": "leepokai" },
   "repository": "https://github.com/leepokai/claude-session-retitle",
